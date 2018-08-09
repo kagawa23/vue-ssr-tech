@@ -1,0 +1,15 @@
+{
+  "name": "vue-ssr-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^1.0.0",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.3.0",
+    "webpack": "^4.16.5"
+  }
+}
